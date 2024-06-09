@@ -1,0 +1,7 @@
+ipywidgets
+matplotlib
+notebook==6.0
+pandas
+plotly
+skforecast
+sklearn
