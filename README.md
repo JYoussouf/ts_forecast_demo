@@ -1,7 +1,7 @@
 A demo ts skforecast template with a grid search hyperparameter optimization and data visualization methods.
 
 ## View Notebook with Interactive Plotly Renders Here:
-https://nbviewer.org/github/JYoussouf/ts_forecast_demo/blob/main/autoregressive_solar_energy_model.ipynb
+https://nbviewer.org/github/JYoussouf/ts_forecast_demo/blob/main/autoregressive_solar_energy_model.ipynb?flush_cache=True
 
 ## Data Location:
 Download the Solar_Energy_Production.csv dataset from here (~54MB): https://www.kaggle.com/datasets/ivnlee/solar-energy-production
